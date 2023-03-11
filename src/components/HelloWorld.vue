@@ -1,5 +1,6 @@
 <template>
 	<h1>{{ msg }}</h1>
+	<v-btn color="primary">test</v-btn>
 </template>
 
 <script setup lang="ts">
