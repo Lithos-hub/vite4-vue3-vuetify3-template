@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue';
 
 <template>
 	<HelloWorld
-		msg="Vite 4 / Vue 3 / Vuetify 3 / TypeScript / SASS / Tailwind CSS / ESLint / Prettier / Vitest / Testing Library"
+		msg="Vite 4 + Vue 3 + Vuetify 3 + TypeScript + Husky + SASS + Tailwind CSS + ESLint + Prettier + Vitest + Testing Library"
 	/>
 </template>
 
