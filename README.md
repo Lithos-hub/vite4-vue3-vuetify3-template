@@ -1,6 +1,18 @@
-# Vue 3 + TypeScript + Vite
+# Vue 3 + TypeScript + Vite 4 + Vuetify 3 and more
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Main stack:
+
+- Vite 4
+- Vue 3
+- Vuetify 3
+- TypeScript
+- ESLint
+- Prettier
+- Husky
+- SASS
+- Tailwind CSS
+- Vitest
+- Testing Library
 
 ## Recommended IDE Setup
 
