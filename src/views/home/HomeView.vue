@@ -15,6 +15,7 @@ const techList: Array<{
 	{ name: 'Testing Library', path: '/testing-library.svg' },
 	{ name: 'Pinia', path: '/pinia.svg' },
 	{ name: 'Vue Query', path: '/vue-query.svg' },
+	{ name: 'Husky 🐶', path: null },
 	{ name: 'Vue Router', path: null },
 	{ name: 'Auto imports: Components', path: null },
 	{

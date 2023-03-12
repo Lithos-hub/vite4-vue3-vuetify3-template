@@ -1,6 +1,6 @@
-# Vue 3 + TypeScript + Vite 4 + Vuetify 3 and more
+# Vite 4, Vue 3, Vuetify 3, TypeScript template
 
-Main stack:
+Technologies stack and features:
 
 - Vite 4
 - Vue 3
@@ -8,11 +8,16 @@ Main stack:
 - TypeScript
 - ESLint
 - Prettier
-- Husky
-- SASS
 - Tailwind CSS
+- SASS
 - Vitest
 - Testing Library
+- Husky
+- Pinia
+- Vue Query
+- Vue Router
+- Auto imports: Components
+- Auto imports: Vitest, Pinia, Vue and Vue Router APIs
 
 ## Recommended IDE Setup
 
