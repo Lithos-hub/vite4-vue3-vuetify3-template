@@ -11,9 +11,19 @@
 		"esModuleInterop": true,
 		"lib": ["ESNext", "DOM"],
 		"skipLibCheck": true,
-		"noEmit": true
+		"noEmit": true,
+		"paths": {
+			"@/*": ["./src/*"]
+		},
+		"types": ["vitest/globals"]
 	},
-	"include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
-	"references": [{ "path": "./tsconfig.node.json" }],
-	"exclude": ["node_modules/**/*"]
+	"include": [
+		"src/**/*.ts",
+		"src/**/*.d.ts",
+		"src/**/*.vue",
+		"./components.d.ts",
+		"./auto-imports.d.ts"
+	],
+	"references": [{ "path": "./tsconfig.node.json" }]
+	// "exclude": ["node_modules/**/*"]
 }

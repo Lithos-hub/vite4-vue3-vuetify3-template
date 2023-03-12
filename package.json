@@ -21,10 +21,14 @@
 		]
 	},
 	"dependencies": {
+		"pinia": "^2.0.33",
 		"vue": "^3.2.45",
+		"vue-query": "^1.26.0",
+		"vue-router": "^4.1.6",
 		"vuetify": "^3.1.8"
 	},
 	"devDependencies": {
+		"@mdi/font": "^7.1.96",
 		"@testing-library/vue": "^6.6.1",
 		"@typescript-eslint/eslint-plugin": "^5.54.1",
 		"@typescript-eslint/parser": "^5.54.1",
@@ -47,6 +51,8 @@
 		"tailwindcss": "^3.2.7",
 		"ts-standard": "^12.0.2",
 		"typescript": "^4.9.5",
+		"unplugin-auto-import": "^0.15.1",
+		"unplugin-vue-components": "^0.24.1",
 		"vite": "^4.1.0",
 		"vitest": "^0.29.2",
 		"vue-eslint-parser": "^9.1.0",

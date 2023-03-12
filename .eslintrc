@@ -10,6 +10,7 @@
 		"node": true
 	},
 	"extends": [
+		"./.eslintrc-auto-import.json",
 		"plugin:vue/recommended",
 		"eslint:recommended",
 		"@vue/typescript/recommended",
